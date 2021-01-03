@@ -3,6 +3,6 @@ import 'package:kittens/getIt.dart';
 import 'package:kittens/view/HomeScreen.dart';
 void main() {
   setup();
-  runApp(MyApp());
+  runApp(HomeScreen());
 }
 
